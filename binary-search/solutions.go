@@ -1,4 +1,4 @@
-package binarysearch
+package binary_search
 
 // recursive + two pointer(?)
 func BinarySearch(nums []int, target int, left int, right int) int {
