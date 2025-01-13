@@ -4,9 +4,9 @@ Given a sorted array of integers `nums` and an integer `target`, implement a fun
 
 ## Examples
 
-#### First
+#### Example 1
 
 **input**:
-`nums = [-1, 0, 3, 5, 9, 12]`, target = 9
+`nums = [-1, 0, 3, 5, 9, 12]`, target = 9  
 **output**:
 `4`
