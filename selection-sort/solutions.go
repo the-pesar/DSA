@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// in-place
 func SelectionSort(array []int) []int {
 	for i := 0; i < len(array); i++ {
 		var min = array[i]
