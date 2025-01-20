@@ -34,3 +34,4 @@ A Circular Linked List is a type of linked list where the **last node** points b
 - [Linked list cycle (Leetcode)](https://leetcode.com/problems/linked-list-cycle/)
 - [Remove linked list elements (Leetcode)](https://leetcode.com/problems/remove-linked-list-elements/)
 - [Reverse linked list (Leetcode)](https://leetcode.com/problems/reverse-linked-list/)
+- [Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/)
